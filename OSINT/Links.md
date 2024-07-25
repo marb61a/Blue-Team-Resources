@@ -1,17 +1,30 @@
-<b><p align=center>Blue Team Resources </br>
+<b><p align=center>Blue Team Resources : OSINT </br>
 
-<h2><p align=center>Linux </p></h2>
-
-https://www.networksecuritytoolkit.org/nst/index.html </br>
-https://www.tracelabs.org/initiatives/osint-vm </br>
-https://tsurugi-linux.org/downloads.php </br>
-https://www.digi77.com/linux-kodachi/ </br>
+<h2><p align=center>Articles</p></h2>
+https://www.osintteam.com/what-is-osint/
 
 
-<h2><p align=center>Windows </p></h2>
 
 
-<h2><p align=center>Android </p></h2>
+<h2><p align=center>Links </p></h2>
+https://www.osintteam.com/ </br>
+https://hatless1der.com/ </br>
+https://www.skopenow.com/news </br>
+https://www.offensiveosint.io/ </br>
+https://osintdaily.blogspot.com/ </br>
+https://www.osintme.com/ </br>
+https://nixintel.info/ </br>
+https://inteltechniques.com/index.html </br>
+https://blog.sociallinks.io/ </br>
+https://osintambition.substack.com/ </br>
+https://knowmad-osint.com/blog/ </br>
+https://www.forensicosint.com/newsletter </br>
+https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list </br>
+https://sector035.nl/ </br>
+
+
+
+<h2><p align=center></p></h2>
 
 
 <h2><p align=center>Courses\Education </p></h2>
@@ -25,3 +38,9 @@ Complete OSINT Exercises Walkthroughs - https://www.youtube.com/playlist?list=PL
 
 
 <h2><p align=center>Sotware </p></h2>
+https://www.networksecuritytoolkit.org/nst/index.html </br>
+https://www.tracelabs.org/initiatives/osint-vm </br>
+https://tsurugi-linux.org/downloads.php </br>
+https://www.digi77.com/linux-kodachi/ </br>
+https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?pli=1
+
