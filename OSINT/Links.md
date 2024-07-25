@@ -1,9 +1,21 @@
 <b><p align=center>Blue Team Resources : OSINT </br>
 
 <h2><p align=center>Articles</p></h2>
-https://www.osintteam.com/what-is-osint/
+https://www.osintteam.com/what-is-osint/ </br>
+https://www.osintteam.com/uncover-digital-footprints-with-osint-industries-a-complet-review/ </br>
+https://www.osintteam.com/guide-to-shodan-dorks-and-cybersecurity-best-practices-2024/ </br>
+https://www.osintteam.com/osint-tools-for-the-dark-web/ </br>
+https://www.osintteam.com/learn-from-experts-10-osint-blogs-you-should-follow/ </br>
+https://www.osintteam.com/how-death-records-osint-can-help-in-genealogy-research/ </br>
+https://www.osintteam.com/how-to-create-a-person-profile-in-2024/ </br>
+https://www.osintteam.com/how-to-find-anyone-by-photo-the-secrets-of-reverse-image-search/ </br>
 
 
+https://espysys.com/blog/automate-espy-phone-validation-zapier/ </br>
+https://espysys.com/blog/web-scraping-best-practices/ </br>
+https://espysys.com/blog/geospatial-intelligence-investigations/ </br>
+
+https://www.osint-jobs.com/blog/the-ultimate-beginners-guide-to-osint </br>
 
 
 <h2><p align=center>Links </p></h2>
@@ -21,7 +33,8 @@ https://knowmad-osint.com/blog/ </br>
 https://www.forensicosint.com/newsletter </br>
 https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list </br>
 https://sector035.nl/ </br>
-
+https://espysys.com/blog/ </br>
+https://www.aware-online.com/en/osint-tutorials/ </br>
 
 
 <h2><p align=center></p></h2>
